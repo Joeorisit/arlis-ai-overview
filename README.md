@@ -19,6 +19,6 @@
 
 ---
 
-Built by **Joe Comer** · [LinkedIn](https://www.linkedin.com/in/joe-comer)
+Built by **Joe Comer** **Jonah Elliott** and **Evan Pursley** · [LinkedIn](https://www.linkedin.com/in/joe-comer) [LinkedIn](https://www.linkedin.com/in/jonah-elliott-87771024a/) [LinkedIn](https://www.linkedin.com/in/evan-pursley-25b551353/)
 
 <sub>© Aleris Medical Systems, LLC. All rights reserved. This repository contains documentation only; no product source code is included or licensed.</sub>
